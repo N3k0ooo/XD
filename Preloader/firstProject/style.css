@@ -1,0 +1,12 @@
+body{
+    background: #004b47;
+    color: #ffffff;
+    font-family: ALGERIAN;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 1000px;
+    margin: auto;
+}
